@@ -1,5 +1,5 @@
-label,sublabel,description,styles,bgcolor
+﻿label,sublabel,description,styles,bgcolor
+燃やせるごみ,,,img/moyasu02.svg,#ff9b84
 燃やせないごみ,,,img/moyasanai02.svg,#a0ffad
 プラスチック容器包装,,,img/shigen02.svg,#fcff6d
-燃やせるごみ,,,img/moyasu02.svg,#ff9b84
 缶・びん・ペットボトル,,,img/bin02.svg,#70b5ff
