@@ -1,4 +1,4 @@
-/* Custom button
+﻿/* Custom button
 -------------------------------------------------- */
 body {
     font-family: ".HiraKakuInterface-W1", 'Lucida Grande',
@@ -14,7 +14,7 @@ body {
 /*#accordion-group3{background-color:  #2dc7aa;}*//* びん */
 
 #accordion a, #accordion a:hover {
-    color: white;
+    color: #333;
     text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ a.accordion-toggle-top:hover {
 
 .left-day {
     font-size: 1.5em;
-    color: white;
+    color: #333;
     position: absolute;
     padding-left: 10px;
 }
